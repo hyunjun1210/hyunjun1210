@@ -1,4 +1,6 @@
-## 👋 Hello! My Name is Hyunjun!
+<div align="center">
+  <img src="[https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51](https://capsule-render.vercel.app/api?type=shark&height=300&color=3F48CC&text=Hyunjun’s%20GitHub&textBg=false&section=header&reversal=false&animation=fadeIn&strokeWidth=3&stroke=000000&fontColor=FFFFFF)" />
+</div>
 
 ```cs
 namespace Hyunjun
