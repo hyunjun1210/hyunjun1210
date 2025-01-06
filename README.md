@@ -1,6 +1,6 @@
 ## 👋 Hello! My Name is Hyunjun!
 
-```
+```cs
 namespace Hyunjun
 {
     internal class Program
