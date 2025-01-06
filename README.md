@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&height=300&color=3F48CC&text=Hyunjun’s%20GitHub&textBg=false&section=header&reversal=false&animation=fadeIn&strokeWidth=3&stroke=000000&fontColor=FFFFFF)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Console.WriteLine(%22Hello%2C+World!%22);%3C-%3E+Hello%2C+World!)](https://git.io/typing-svg)
+
 
 ```cs
 namespace Hyunjun
