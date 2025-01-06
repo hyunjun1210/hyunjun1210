@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=shark&height=300&color=3F48CC&text=Hyunjun’s%20GitHub&textBg=false&section=header&reversal=false&animation=fadeIn&strokeWidth=3&stroke=000000&fontColor=FFFFFF))
+![header](https://capsule-render.vercel.app/api?type=shark&height=300&color=3F48CC&text=Hyunjun’s%20GitHub&textBg=false&section=header&reversal=false&animation=fadeIn&strokeWidth=3&stroke=000000&fontColor=FFFFFF)
 
 
 ```cs
