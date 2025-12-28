@@ -19,6 +19,6 @@
     <br/>
     </div>
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Solved </h2> <br> 
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jun081210)](https://solved.ac/jun081210)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjun1210&theme=merko)
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jun081210)](https://solved.ac/jun081210) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjun1210&theme=merko)
     </div>
     
