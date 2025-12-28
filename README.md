@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8bfb,100:2b01fe&height=240&text=Hyunjun&animation=twinkling&fontColor=d2bef9&fontSize=90" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> My Programming Language </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stack </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
     <table align=center>
       <tr>
@@ -18,8 +18,8 @@
     </table>
     <br/>
     </div>
+    </div>
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> History </h2> <br>
         [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jun081210)](https://solved.ac/jun081210)
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjun1210&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
 
