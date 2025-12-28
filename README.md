@@ -20,7 +20,7 @@
     </div>
         <div align= "center">
               <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> History </h2> <br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjun1210&layout=compact"><br>
+            <img src="http://mazassumnida.wtf/api/generate_badge?boj=jun081210"><br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun081210&theme=merko"><br>
     </div>
     </div>
