@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Main Tech Stack </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stack </h2>
     <br> 
         <table>
             <tr>
