@@ -7,6 +7,10 @@
     <br> 
         <table>
             <tr>
+                <th colspan="2">Client</th>
+                <th colspan="2">Server</th>
+            </tr>
+            <tr>
                 <td align="center">C#</td>
                 <td align="center">Unity</td>
                 <td align="center">C</td>
