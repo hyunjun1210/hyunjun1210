@@ -15,7 +15,7 @@
         <td style="width: 100px"><img src="https://i.namu.wiki/i/sNrxmspRMQUP7S2OfvYKBR7DOSHf-MshvelRbASD0UYxJGJi2ARw03oa-mx-4pzfMot4Jg4OsKmhZwF_iwj81kxfrfKBB98BZDHpokAjM_UiO1NoSy3dmO4gicuDRz5lwc3bLpFToXn-FkselaVx-Q.svg" width=100px/></td>
         <td style="width: 100px"><img src="https://i.namu.wiki/i/Rv7cLGvX03Y-IX85VC6HXqtKuAhofMYJdodeW2v38Ghm6eCgDCqAhjXWcAWb0MB5UdvweeYI8QLNalwMevPplw.svg" width=100px/></td>
         <td style="width: 100px"><img src="https://i.namu.wiki/i/rR0JqoHBX6JAFtqYRWEFCutl8t2UvLGETvnivzsAzcUgvycs-EDmvEW9Buj8AdK36K7FelgNRzf5gZW2T7vtQA.svg" width=100px/></td>
-        <td style="width: 100px"><img src="https://unity.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffuvbjjlp%2Fproduction%2F19d1656d78819d6634202b73c53c29a6e2933353-811x455.png" width=100px/></td>
+        <td style="width: 100px"><img src="https://yt3.googleusercontent.com/2GbJoy1rf88ByUwmy1Kc05BcnxH33wbjAxRdqg2n6_VSoZsKTbVKrvPs3zivavdHbuTIC5iV=s900-c-k-c0x00ffffff-no-rj" width=100px/></td>
       </tr>
     </table>
     <br/>
