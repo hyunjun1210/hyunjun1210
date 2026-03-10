@@ -7,8 +7,8 @@
     <br> 
         <table>
             <tr>
-                <th colspan="2">Client</th>
-                <th colspan="2">Server</th>
+                <th colspan="2">Game</th>
+                <th colspan="2">PS</th>
             </tr>
             <tr>
                 <td align="center">C#</td>
